@@ -50,6 +50,7 @@ ls: the solar longitude
 ![8](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/1692c2d4-5590-414a-b023-777ec6ec929d)
 
   c. What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
+  
      i. Find the average minimum daily temperature for all of the months.
    ![9](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/3ba17ba2-18dd-4bc4-8a5a-7aab29a78190)
    
@@ -59,6 +60,7 @@ ls: the solar longitude
    ![11](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/792fc57f-2750-4489-a17e-801b97dc1077)
 
   d. Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
+  
      i. Find the average daily atmospheric pressure of all the months.
    ![12](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/97716bc7-0c93-45e4-a56c-8a0a87dc68c4)
    
@@ -66,8 +68,18 @@ ls: the solar longitude
    ![13](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/0a75bd13-3a2e-43f5-9699-d283b8fe7296)
    
   e. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
+  
      i. Consider how many days elapse on Earth in the time that Mars circles the Sun once.
-     ii. Visually estimate the result by plotting the daily minimum temperature.
-     ![14](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/bd0fa653-98eb-46dd-8c46-b44057a9c330)
      
+     ii. Visually estimate the result by plotting the daily minimum temperature.
+       
+![14](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/bd0fa653-98eb-46dd-8c46-b44057a9c330)
+
 6. Export the DataFrame to a CSV file.
+
+# References
+Referred to various class activity exercises, got support from BCS Learning Assistant, Assistant Instructor, and websites for: Documentation for HTML, mdn Web Docs, Documentation for Beautiful Soup, https://www.crummy.com/software/BeautifulSoup/bs4/doc/, Documentation for Spinter (https://splinter.readthedocs.io/en/stable/index.html).
+
+# Files submitted including this README File
+1.  EmployeesSQL a. data folder: i. departments.csv ii. dept_emp.csv iii. dept_manager.csv iv. employees.csv v. salaries.csv vi. titles.csv b. EmployeeSQL_DB_Analysis.sql (contains the SQL queries)
+c. EmployeeSQL_schema.sql (contains the Schema Table queries) d. QuickDBD-EmployeeSQL_DB.png (contains the Schema Diagram)
