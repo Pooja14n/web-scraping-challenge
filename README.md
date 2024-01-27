@@ -14,3 +14,6 @@ In the Jupyter Notebook, the following steps are to be followed to scrape the Ma
   a. Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview. 
   b. Store all the dictionaries in a Python list.
   c. Print the list in the notebook.
+
+![2](https://github.com/Pooja14n/web-scraping-challenge/assets/144713762/4501c686-fd24-420c-a97b-7eb8b5d667bc)
+
