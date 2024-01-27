@@ -81,5 +81,6 @@ ls: the solar longitude
 Referred to various class activity exercises, got support from BCS Learning Assistant, Assistant Instructor, and websites for: Documentation for HTML, mdn Web Docs, Documentation for Beautiful Soup, https://www.crummy.com/software/BeautifulSoup/bs4/doc/, Documentation for Spinter (https://splinter.readthedocs.io/en/stable/index.html).
 
 # Files submitted including this README File
-1.  EmployeesSQL a. data folder: i. departments.csv ii. dept_emp.csv iii. dept_manager.csv iv. employees.csv v. salaries.csv vi. titles.csv b. EmployeeSQL_DB_Analysis.sql (contains the SQL queries)
-c. EmployeeSQL_schema.sql (contains the Schema Table queries) d. QuickDBD-EmployeeSQL_DB.png (contains the Schema Diagram)
+1. `part_1_mars_news.ipynb` (contains the code to scrape the Mars News website)
+2. `part_2_mars_weather.ipynb` (contains the code to scrape and analyze Mars weather data)
+3. `Mars Weather Data.csv` (output CSV file)
